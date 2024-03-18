@@ -1,0 +1,23 @@
+body{
+    font-size: 120%;
+}
+main, header{
+    width: 80vw;
+    margin: auto;
+}
+h1,h2,h3,h4,h5,h6
+{
+   font-family: Arial, sans-serif;
+}
+.img-capa{
+    width: 80vw;
+    height: 400px;
+    object-fit: cover;
+    box-shadow: 4px 4px 8px #555;
+}
+.img-ingredientes{
+    width: 400px;
+    height: 250px;
+    object-fit: cover; box-shadow: 4px 4px 8px #555;
+
+}
